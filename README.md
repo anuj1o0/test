@@ -2,23 +2,38 @@ Realtime Speech To Text
 
 
 Description
+
+
 This project allows users to convert real-time speech into text using a simple interface. By following the steps below, you will be able to set up and run the project on your local machine.
 
+
+
 Installation
+
+
 To use this project, you need to have the following dependencies installed:
+
 
 transformers: A Python library for natural language processing tasks. Install it by running the following command:
 shell
 
+
 "pip install transformers -q"
+
 
 gradio: A Python library for creating interfaces for machine learning models. Install it by running the following command:
 shell
 
+
 "pip install gradio -q"
 
+
+
 Usage
+
+
 Once you have installed the required dependencies, follow these steps to run the project:
+
 
 Open your favorite integrated development environment (IDE) or text editor.
 
@@ -34,7 +49,10 @@ On the Gradio interface, you will see a microphone button. Click on it to give t
 
 Start speaking, and the application will convert your real-time speech into text.
 
+
+
 Troubleshooting
+
 If you encounter any issues during the installation or usage of this project, please check the following:
 
 Make sure you have correctly installed the required dependencies: transformers and gradio.
@@ -45,7 +63,10 @@ Verify that you have granted the necessary permissions for the application to ac
 
 If you are still experiencing difficulties, please reach out to the project maintainer for further assistance.
 
+
+
 Acknowledgments
+
 Please note that this project relies on the following open-source libraries and resources:
 
 Transformers - Library for natural language processing tasks.
